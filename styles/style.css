@@ -3,3 +3,7 @@ div{
     margin: 20px;
     padding: 20px;
 }
+li{
+    color: brown;
+    text-decoration: underline;
+}
